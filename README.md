@@ -11,8 +11,7 @@ The basic configuration needed is:
 
 Anaconda (or Python 3.6)
 
-
-The conda offical documentation can be found <a src='https://conda.io/en/latest/index.html'> here </a>.
+The conda offical documentation can be found [here](https://conda.io/en/latest/index.html).
 
 ----------------
 Week 1
