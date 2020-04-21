@@ -12,5 +12,8 @@ Week 1
 
 
 ----------------
+Contact: robertomsreis@gmail.com
 
-Copyrght robertodoreis(r)
+Twitter: @robertomsreis
+
+Copyrght robertodoreis &copy;
