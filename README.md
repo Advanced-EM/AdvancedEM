@@ -36,7 +36,6 @@ There is a large number of packages for scientific computation (many of them tar
 
 ----------------
 :email: robertomsreis@gmail.com
-
-Follow me on [[http://i.imgur.com/tXSoThF.png]][https://twitter.com/robertomsreis]
+Follow me on ![https://twitter.com/robertomsreis](http://i.imgur.com/tXSoThF.png)
 
 <b> &copy;robertodoreis </b>
