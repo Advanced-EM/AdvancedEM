@@ -39,10 +39,11 @@ For more information about conda offical documentation can be found [here](https
 
 ### Week 10 and 11
 #### 6. STEM Phase Imaging
-   - Ptychography/DPC.
+   - Differential Phase Constrast.
+   - Ptychography
 
 ### Week 12
-#### [] Machine learning applied to image analysis
+#### 7. Machine learning applied to image analysis
         
 ----------------
 ## Extra Content and Resources:
