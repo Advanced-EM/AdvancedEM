@@ -17,14 +17,35 @@ For more information about conda offical documentation can be found [here](https
 
 ----------------
 ### Week 1
-[]
+[] Intro to Imaging analysis (What should I do after collecting the data?);
+  - Post-acquisition preparation of an image
+  
+### Week 2
+[]  Analysis of High-Resolution STEM images 
+- Extracting Quantitative information 
 
-[]
+### Week 3 to Week 7
+#### [] (S)TEM Image simulations
+ - (S)TEM simulations of thin films
+ - (S)TEM simulations of thik films
+ - CBED simulation
+ - Scanning Diffraction simulations
 
-[]
+### Week 8
+#### [] Analysis of EDX Spectrum
 
+### Week 9
+#### [] Analysis of EELS Spectrum
+
+### Week 10 and 11
+#### [] STEM Phase Imaging
+        - Ptychography/DPC.
+
+### Week 12
+#### [] Machine learning applied to image analysis
+        
 ----------------
-## Extra Content:
+## Extra Content and Resources:
 
 ### Why Python?
 
@@ -36,6 +57,6 @@ There is a large number of packages for scientific computation (many of them tar
 
 ----------------
 :email: robertomsreis@gmail.com
-Follow me on ![https://twitter.com/robertomsreis](http://i.imgur.com/tXSoThF.png)
+![https://twitter.com/robertomsreis](http://i.imgur.com/tXSoThF.png) @robertomsreis
 
-<b> &copy;robertodoreis </b>
+<b> &copy;robertodoreis </b> 2020
