@@ -22,7 +22,7 @@ For more information about conda offical documentation can be found [here](https
   - Post-acquisition data preparation
   
   <p align="center">
-  <img width="256" height="auto" src="Week1/week_01_fig.png">
+  <img width="600" height="auto" src="Week1/week_01_fig.png">
 </p>
   
 ### Week 2
