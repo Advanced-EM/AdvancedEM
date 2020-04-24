@@ -21,6 +21,10 @@ For more information about conda offical documentation can be found [here](https
 #### 1. Intro to Image Processing (What should I do after collecting the data?);
   - Post-acquisition data preparation
   
+  <p align="center">
+  <img width="256" height="auto" src="Week1/week_01_fig.png">
+</p>
+  
 ### Week 2
 #### 2. Analysis of High-Resolution STEM images 
   - Extracting Quantitative information 
