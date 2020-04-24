@@ -1,7 +1,7 @@
 # Advanced EM Analysis
 ----------------------
 
-This a repository containing the material for Advanced Analysis in Transmission Electron Microscopy and related techniques course. The lectures and scripts were designed to cover advanced topics in TEM image and spectrum analysis to help you leverage your expertise and boost up the quaity of your research.  
+This a repository containing the material for Advanced Analysis in Transmission Electron Microscopy and related techniques course. The lectures and scripts were designed to cover advanced topics in TEM image and spectrum analysis to help you leverage your expertise and boost up the quality of your research.  
 
 The scripts used over the course are written in Python and I strongly recommend you to use the Anaconda python distribution. 
 
