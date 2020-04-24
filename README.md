@@ -66,4 +66,4 @@ There is a large number of packages for scientific computation (many of them tar
 
 ![Twitter](http://i.imgur.com/tXSoThF.png) @robertomsreis
 
-<p align="center"> <b> &copy;robertodoreis </b> 2020 </p>
+<p align="center"> <b> &copy;robertodosreis </b> 2020 </p>
