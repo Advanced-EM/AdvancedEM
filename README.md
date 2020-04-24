@@ -18,7 +18,7 @@ For more information about conda offical documentation can be found [here](https
 
 ----------------
 ### Week 1
-#### 1. Intro to Imaging analysis (What should I do after collecting the data?);
+#### 1. Intro to Image Processing (What should I do after collecting the data?);
   - Post-acquisition preparation of an image
   
 ### Week 2
@@ -28,7 +28,7 @@ For more information about conda offical documentation can be found [here](https
 ### Week 3 to Week 7
 #### 3. (S)TEM Image simulations
   - (S)TEM simulations of thin films
-  - (S)TEM simulations of thik films
+  - (S)TEM simulations of thick films
   - CBED simulation
   - Scanning Diffraction simulations
 
