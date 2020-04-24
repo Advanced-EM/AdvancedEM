@@ -19,10 +19,10 @@ For more information about conda offical documentation can be found [here](https
 ----------------
 ### Week 1
 #### 1. Intro to Image Processing (What should I do after collecting the data?);
-  - Post-acquisition preparation of an image
+  - Post-acquisition data preparation
   
 ### Week 2
-##### 2. Analysis of High-Resolution STEM images 
+#### 2. Analysis of High-Resolution STEM images 
   - Extracting Quantitative information 
 
 ### Week 3 to Week 7
@@ -62,4 +62,4 @@ There is a large number of packages for scientific computation (many of them tar
 
 ![Twitter](http://i.imgur.com/tXSoThF.png) @robertomsreis
 
-<b> &copy;robertodoreis </b> 2020
+<p align="center"> <b> &copy;robertodoreis </b> 2020 </p>
