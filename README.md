@@ -28,6 +28,10 @@ For more information about conda offical documentation can be found [here](https
 ### Week 2
 #### 2. Analysis of High-Resolution STEM images 
   - Extracting Quantitative information 
+  
+  <p align="center">
+  <img width="600" height="auto" src="Week2/week_02_fig.png">
+</p>
 
 ### Week 3 to Week 7
 #### 3. (S)TEM Image simulations
