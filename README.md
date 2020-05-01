@@ -30,7 +30,7 @@ For more information about conda offical documentation can be found [here](https
   - Extracting Quantitative information 
   
   <p align="center">
-  <img width="300" height="auto" src="Week2/week_02_fig.png">
+  <img width="400" height="auto" src="Week2/week_02_fig.png">
 </p>
 
 ### Week 3 to Week 7
