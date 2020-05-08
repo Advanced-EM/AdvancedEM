@@ -35,6 +35,14 @@ For more information about conda offical documentation can be found [here](https
 
 ### Week 3 to Week 7
 #### 3. (S)TEM Image simulations
+
+  - Linear Image Approximation
+  
+  <p align="center">
+  <img width="600" height="auto" src="Week3/MTF_CTEM.png">
+</p>
+
+
   - (S)TEM simulations of thin films
   - (S)TEM simulations of thick films
   - CBED simulation
