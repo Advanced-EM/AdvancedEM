@@ -39,8 +39,7 @@ For more information about conda offical documentation can be found [here](https
   - Linear Image Approximation
   
   <p align="center">
-  <img width="300" height="auto" src="Week3/MTF_CTEM.png">
-</p>
+  <img width="300" height="auto" src="Week3/MTF_CTEM.png"> </p>
 
   - TEM simulations of thin films (WP approximation)
   
