@@ -42,8 +42,12 @@ For more information about conda offical documentation can be found [here](https
   <img width="300" height="auto" src="Week3/MTF_CTEM.png">
 </p>
 
-
-  - (S)TEM simulations of thin films
+  - TEM simulations of thin films (WP approximation)
+  
+  
+    <img width="400" height="auto" src="Week4/week4_hero.png">
+</p>
+  
   - (S)TEM simulations of thick films
   - CBED simulation
   - Scanning Diffraction simulations
