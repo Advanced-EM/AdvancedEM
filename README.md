@@ -47,9 +47,10 @@ For more information about conda offical documentation can be found [here](https
     <img width="400" height="auto" src="Week4/week4_hero.png">
 </p>
   
-  - (S)TEM simulations of thick films
-  - CBED simulation
-  - Scanning Diffraction simulations
+  - Building Structure for Multislice
+  <img width="400" height="auto" src="Week5/week5.png">
+</p>
+  
 
 ### Week 8
 #### 4. Analysis of EDX Spectrum
